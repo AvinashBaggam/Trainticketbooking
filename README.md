@@ -18,3 +18,25 @@ Railway Reservation System is designed to automate the online ticket purchasing 
     Javascript for Api Calls
     
     
+    For to run the the code
+    
+    Go railwayDjango and run 
+    ....Python manage.py migrate
+    ....Python manage.py migrateall
+    ....Python manage.py runserver
+    
+    After that u will see localhost:8000 Web server and start exploring the features
+    
+    
+    
+    
+    
+    
+   Tables are created in Sqlite Database
+
+railway_add_train
+railway_passenger
+railway_register
+railway_book_ticket
+    
+    
